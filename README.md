@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Sanya Singh
 
-<!--
-**sanyacodes7/sanyacodes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A Computer Science student with a growing interest in building, breaking, and improving software.  
+I like learning things from the ground up and making them actually work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to
+- 🔭 Currently working on **CS Fundamentals** and **Software Development**
+- 🌱 Learning **Python Development** and strengthening problem-solving skills
+- 👯 Open to collaborating on **Development | Testing | DevOps**
+- 🤔 Looking to improve my understanding of **real-world projects and system design**
+- 💬 Ask me about **C, C++, Python basics, or CS fundamentals**
+- 📫 Reach me via **GitHub** (for now — I prefer clean inboxes)
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I prefer **clarity over complexity** — simple code feels powerful
+
+---
+
+### 🛠️ Tech Stack (growing)
+- **Languages:** C, C++, Python  
+- **Concepts:** DSA basics, OOP, CS fundamentals  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+⭐ *Always learning. Always improving.*
